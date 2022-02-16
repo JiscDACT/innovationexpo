@@ -1,2 +1,3 @@
-# innovationexpo
-Repo for Jisc internal Innovation Expo
+# Jisc Innovation Expo
+
+Repoistory for the Jisc internal Innovation Expo
