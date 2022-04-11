@@ -11,3 +11,6 @@ Full documentation for Qualkit available from the [GitHub Repository](https://gi
 
 More information about the DEI service, see [here](https://digitalinsights.jisc.ac.uk/).
 
+A presentation of this approach was carried out at the Jisc Inovation Expo - https://jisc365.sharepoint.com/sites/jisc-ideas/SitePages/Catch-up-on-Innovation-Expo-2022.aspx
+
+Find the videos [here](https://web.microsoftstream.com/embed/channel/fe98ebf2-5511-4649-a33d-5d952a22f2a0?app=SPO&sort=trending#) if you are Jisc Staff.
